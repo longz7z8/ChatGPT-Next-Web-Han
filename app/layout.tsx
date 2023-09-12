@@ -6,8 +6,8 @@ import { getClientConfig } from "./config/client";
 import { type Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "ChatGPT Next Web",
-  description: "Your personal ChatGPT Chat Bot.",
+  title: "ChatGPT镜像站 ByHan",
+  description: "Han的ChatGPT镜像站",
   viewport: {
     width: "device-width",
     initialScale: 1,
